@@ -1,0 +1,3 @@
+/home/yanghao/TEST2/build/CMakeFiles/app.dir
+/home/yanghao/TEST2/build/CMakeFiles/edit_cache.dir
+/home/yanghao/TEST2/build/CMakeFiles/rebuild_cache.dir

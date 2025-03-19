@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.0)
+project(test)
+set(CMAKE_CXX_STANDARD 11)
+set(HOME /home/yanghao/TEST2)
+file(GLOB SRC_LIST ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+set(EXECUTABLE_OUTPUT_PATH ${HOME}/bin)
+add_executable(app ${SRC_LIST})
+
+message(STATUS "Source files: ${HOME}")
+message(STATUS "Source files: ${CMAKE_CURRENT_SOURCE_DIR}")
+message(STATUS "Source files: ${PROJECT_SOURCE_DIR}")
