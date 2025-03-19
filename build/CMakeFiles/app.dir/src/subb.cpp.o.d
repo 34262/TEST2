@@ -1,5 +1,7 @@
-CMakeFiles/app.dir/src/subb.cpp.o: /home/yanghao/TEST2/src/subb.cpp \
- /usr/include/stdc-predef.h /home/yanghao/TEST2/include/su.h \
+CMakeFiles/app.dir/src/subb.cpp.o: \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/src/subb.cpp \
+ /usr/include/stdc-predef.h \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/include/su.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

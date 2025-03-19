@@ -1,5 +1,7 @@
-CMakeFiles/app.dir/src/addd.cpp.o: /home/yanghao/TEST2/src/addd.cpp \
- /usr/include/stdc-predef.h /home/yanghao/TEST2/include/ad.h \
+CMakeFiles/app.dir/src/addd.cpp.o: \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/src/addd.cpp \
+ /usr/include/stdc-predef.h \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/include/ad.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

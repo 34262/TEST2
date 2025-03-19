@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/app"
-  "../bin/app.pdb"
+  "/home/yanghao/vscodedemo/test_makefike_json/TEST2/bin/app"
+  "/home/yanghao/vscodedemo/test_makefike_json/TEST2/bin/app.pdb"
   "CMakeFiles/app.dir/src/addd.cpp.o"
   "CMakeFiles/app.dir/src/addd.cpp.o.d"
   "CMakeFiles/app.dir/src/main.cpp.o"

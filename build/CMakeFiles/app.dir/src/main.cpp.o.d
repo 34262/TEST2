@@ -1,4 +1,5 @@
-CMakeFiles/app.dir/src/main.cpp.o: /home/yanghao/TEST2/src/main.cpp \
+CMakeFiles/app.dir/src/main.cpp.o: \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -142,5 +143,6 @@ CMakeFiles/app.dir/src/main.cpp.o: /home/yanghao/TEST2/src/main.cpp \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc /home/yanghao/TEST2/include/ad.h \
- /home/yanghao/TEST2/include/su.h
+ /usr/include/c++/11/bits/istream.tcc \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/include/ad.h \
+ /home/yanghao/vscodedemo/test_makefike_json/TEST2/include/su.h
